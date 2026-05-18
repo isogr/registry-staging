@@ -4,12 +4,12 @@ data:
   name: Canada - British Columbia Mainland
   extent:
     'n': '84'
-    e: '24'
-    s: '24'
-    w: '18'
+    e: '-138'
+    s: '0'
+    w: '-144'
     name: >-
-      World - onshore and offshore - between 18°E and 24°E, northern hemisphere
-      between equator and 84°N.
+      World - onshore and offshore - between 144°W and 138°W, northern
+      hemisphere between equator and 84°N.
   informationSources: []
   remarks: ''
   aliases: []
