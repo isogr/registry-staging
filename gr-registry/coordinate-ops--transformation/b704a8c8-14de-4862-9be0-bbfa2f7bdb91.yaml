@@ -51,5 +51,9 @@ data:
       value: '285'
       parameter: 15811eed-e76f-43f1-9b66-e36d1c94aacf
       unitOfMeasurement: null
-status: valid
+status: superseded
 dateAccepted: 2025-05-05T03:30:57.488Z
+amendedInCR: 4ef415c5-f1fa-498f-83cc-e00f8dc0ff5f
+supersededBy:
+  - itemID: b1f12217-4ce1-44c9-b01b-85c8d109043a
+    classID: coordinate-ops--transformation

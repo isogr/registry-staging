@@ -9,7 +9,7 @@ items:
     amendmentType: supersession
     supersedingItemIDs:
       - b1f12217-4ce1-44c9-b01b-85c8d109043a
-state: pending-control-body-review
+state: accepted
 registerVersion: 8c0e98e1-93e3-47f2-b860-3c38b30b7982
 timeProposed: 2026-05-31T14:53:41.304Z
 pastTransitions:
@@ -43,4 +43,23 @@ pastTransitions:
           value: paneron@craymer.com
     input:
       registerManagerNotes: Accepted for testing supersession.
+  - label: Accept
+    timestamp: 2026-05-31T14:54:40.384Z
+    fromState: pending-control-body-review
+    toState: accepted
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      controlBodyNotes: .
+      controlBodyDecisionEvent: Approved by M. Craymer for testing supersession.
 registerManagerNotes: Accepted for testing supersession.
+controlBodyNotes: .
+controlBodyDecisionEvent: Approved by M. Craymer for testing supersession.
+timeDisposed: 2026-05-31T14:54:40.384Z
