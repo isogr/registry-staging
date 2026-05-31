@@ -1,8 +1,13 @@
 id: 4ef415c5-f1fa-498f-83cc-e00f8dc0ff5f
 timeStarted: 2026-05-31T14:51:00.332Z
-timeEdited: 2026-05-31T14:51:00.332Z
+timeEdited: 2026-05-31T14:51:50.033Z
 justification: Supersession test by M. Craymer
 submittingStakeholderGitServerUsername: maccraymer
-items: {}
+items:
+  /coordinate-ops--transformation/b704a8c8-14de-4862-9be0-bbfa2f7bdb91.yaml:
+    type: amendment
+    amendmentType: supersession
+    supersedingItemIDs:
+      - b1f12217-4ce1-44c9-b01b-85c8d109043a
 state: draft
 registerVersion: 8c0e98e1-93e3-47f2-b860-3c38b30b7982
