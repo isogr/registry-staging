@@ -1,8 +1,10 @@
 id: ceee4fd3-307e-448a-b99c-e14614265651
 timeStarted: 2026-07-23T16:32:08.993Z
-timeEdited: 2026-07-23T16:32:08.993Z
+timeEdited: 2026-07-23T16:32:31.668Z
 justification: Test ellipsoid with 9 decimals for inv flattening. M. Craymer
 submittingStakeholderGitServerUsername: maccraymer
-items: {}
+items:
+  /ellipsoid/0bc0387d-126a-4801-bb1e-6980dcd63fbb.yaml:
+    type: addition
 state: draft
 registerVersion: 4ef415c5-f1fa-498f-83cc-e00f8dc0ff5f
