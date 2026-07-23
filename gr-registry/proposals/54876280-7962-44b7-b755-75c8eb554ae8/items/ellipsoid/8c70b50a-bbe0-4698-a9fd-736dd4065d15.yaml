@@ -1,0 +1,27 @@
+id: 8c70b50a-bbe0-4698-a9fd-736dd4065d15
+data:
+  identifier: -1
+  name: TEST
+  aliases: []
+  informationSources:
+    - title: Test citation
+      publicationDate: '2026'
+      revisionDate: ''
+      edition: ''
+      author: M. Craymer
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: ''
+  remarks: Test of entry of 9 decimals for inverse flattening
+  semiMajorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  semiMinorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  inverseFlatteningUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  semiMajorAxis: 6378137
+  semiMinorAxis: null
+  inverseFlattening: 298.257223563
+  isSphere: false
+dateAccepted: '2026-07-23T17:07:12.159Z'
+status: valid
