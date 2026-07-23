@@ -9,3 +9,5 @@ data:
   remarks: Test
   aliases: []
   semiMajorAxis: 6378137
+  semiMajorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  inverseFlattening: 298
