@@ -3,7 +3,7 @@ dateAccepted: 2026-07-23T16:32:31.668Z
 status: valid
 data:
   aliases:
-    - WGS84
+    - ''
   description: null
   identifier: 30
   informationSources:
@@ -51,18 +51,14 @@ data:
         Department of Defense World Geodetic System 1984: Its Definition and
         Relationships with Local Geodetic Systems, Version 1.0.0
       uuid: a794d4a1-5b4f-4391-969b-ff5fded58e28
-  inverseFlattening: 298.2572236
+  inverseFlattening: .nan
   inverseFlatteningUoM: 932dce03-daeb-4762-ac71-81c69c41746b
   isSphere: false
-  name: WGS 84
+  name: TEST
   remarks: >-
-    The World Geodetic System 1984 (WGS 84) contains four defining physical
-    parameters for the Earth: the semi-major axis (a), the reciprocal of
-    flattening (1/f) of an oblate spheroid of revolution, the geocentric
-    gravitational constant (GM = 3.986004418e14 m^3/s^2) includes the mass of
-    the atmosphere, and the Earth's angular rotational velocity about its spin
-    axis (omega = 7.2921150e-5 rad/s).
-  semiMajorAxis: 6378137
-  semiMajorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+    Test ellipsoid with 9 decimals for inverse flattening using WGS 84 ellipsoid
+    data.
+  semiMajorAxis: null
+  semiMajorAxisUoM: null
   semiMinorAxis: null
-  semiMinorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  semiMinorAxisUoM: null
