@@ -100,4 +100,5 @@ data:
   extentRef: d6e78213-1fb4-41e3-b9f8-b0b35f462867
 dateAccepted: 2022-07-25T00:00:00.000Z
 id: 5b0cabaa-9b8c-46fb-8362-3cefdf8670a0
-status: valid
+status: invalid
+amendedInCR: d4119d4a-e087-46a0-afbf-22c50f560edc
