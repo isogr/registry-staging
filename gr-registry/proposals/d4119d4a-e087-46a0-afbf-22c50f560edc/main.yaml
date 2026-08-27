@@ -1,11 +1,28 @@
 id: d4119d4a-e087-46a0-afbf-22c50f560edc
 timeStarted: 2026-08-27T14:48:09.519Z
 timeEdited: 2026-08-27T14:48:20.769Z
-justification: Test invalidation
+justification: 'Test invalidation '
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /datums--vertical/5b0cabaa-9b8c-46fb-8362-3cefdf8670a0.yaml:
     type: amendment
     amendmentType: invalidation
-state: draft
+state: proposed
 registerVersion: 4ef415c5-f1fa-498f-83cc-e00f8dc0ff5f
+timeProposed: 2026-08-27T14:49:00.639Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-08-27T14:49:00.639Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: 'Test invalidation '
