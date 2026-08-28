@@ -1,0 +1,12 @@
+submittingStakeholderGitServerUsername: maccraymer
+registerVersion: ''
+id: ce13e3c5-b897-4323-89df-b7f318255b84
+timeStarted: '2026-08-28T21:47:21.309Z'
+timeEdited: '2026-08-28T21:47:21.309Z'
+state: draft
+justification: imported from converter
+items:
+  /coordinate-sys-axis/240501ce-216a-475f-b57b-57916f73a347.yaml:
+    type: addition
+  /coordinate-sys-axis/2e00ccda-e6d1-4979-8af3-b030716677e8.yaml:
+    type: addition

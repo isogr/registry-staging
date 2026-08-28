@@ -1,0 +1,25 @@
+id: 2e00ccda-e6d1-4979-8af3-b030716677e8
+data:
+  identifier: -2
+  name: Southing
+  aliases: []
+  informationSources:
+    - title: Standard for the National Control Survey System
+      publicationDate: ''
+      revisionDate: '2020-03-26'
+      edition: '4'
+      author: 'Chief Directorate: National Geospatial Information (CDNGI)'
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: Internal document
+      publisher: >-
+        Department of Rural Development and Land Reform,  Republic of South
+        Africa
+  remarks: Southing
+  orientation: south
+  abbreviation: X
+  unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+dateAccepted: '2026-08-28T21:47:21.310Z'
+status: valid
