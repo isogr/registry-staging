@@ -1,8 +1,10 @@
 id: fe13a48a-2ee6-4c49-93c4-b08def423830
 timeStarted: 2026-08-31T00:21:35.342Z
-timeEdited: 2026-08-31T00:21:35.342Z
+timeEdited: 2026-08-31T00:21:42.563Z
 justification: Test entry of new ellipsoid.
 submittingStakeholderGitServerUsername: maccraymer
-items: {}
+items:
+  /ellipsoid/c7722cc0-6ad3-4630-9c98-b392818269f1.yaml:
+    type: addition
 state: draft
 registerVersion: d4119d4a-e087-46a0-afbf-22c50f560edc
