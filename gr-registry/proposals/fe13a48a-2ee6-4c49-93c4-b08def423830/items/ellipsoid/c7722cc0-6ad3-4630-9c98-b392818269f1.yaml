@@ -2,9 +2,11 @@ id: c7722cc0-6ad3-4630-9c98-b392818269f1
 dateAccepted: 2026-08-31T00:21:42.563Z
 status: valid
 data:
-  name: Unnamed item
+  name: Test Ellipsoid
   identifier: 0
   informationSources: []
   informationSourceRefs: []
-  remarks: ''
+  remarks: Test ellipsoid
   aliases: []
+  semiMajorAxis: 3678137
+  semiMinorAxis: 6356752.3142
